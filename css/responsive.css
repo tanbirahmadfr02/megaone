@@ -1,0 +1,1189 @@
+@media (min-width: 1400px) {
+    /* =======menu part start ===== */
+
+    #main_menu img {
+        width: 150px;
+    }
+
+    #main_menu {
+        padding: 10px 0;
+    }
+
+    #main_menu .toggler_icon {
+        font-size: 20px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =======menu part end ===== */
+
+    /* ======banner part start ==== */
+
+    #banner_part {
+        padding: 100px 0;
+        text-align: center;
+        padding-bottom: 0px;
+    }
+
+    #banner_part .heading-box h2 {
+        font-size: 57px;
+        line-height: 52px;
+    }
+
+    #banner_part .btn.btn-transparent-black {
+        margin-bottom: 40px;
+    }
+
+    #banner_part .banner_right img {
+        width: 100%;
+    }
+
+    /* ======banner part end ==== */
+
+    /* =====about part start ===== */
+
+    #about_part {
+        margin-bottom: 100px;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    #about_part .about_item {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+
+    #about_part .about_item .icon {
+        font-size: 26px;
+        height: 50px;
+        width: 50px;
+    }
+
+    #about_part .about_item:last-child {
+        margin-bottom: 70px;
+    }
+
+    .heading-area .title {
+        font-size: 36px;
+    }
+
+    #about_part .spcl {
+        margin-top: 0;
+    }
+
+    /* =====about part end ===== */
+
+    /* ======count part start ===== */
+
+    #count_part {
+        padding: 45px 0;
+    }
+
+    #count_part .parallax-box i {
+        font-size: 39px;
+        margin-bottom: 20px;
+    }
+
+    #count_part .parallax-box h2 {
+        font-size: 33px;
+    }
+
+    #count_part .parallax-box {
+        padding: 2rem 0;
+    }
+
+    /* ======count part end ===== */
+
+    /* =====service part start === */
+
+    #service_part {
+        margin: 70px 0;
+        text-align: center;
+    }
+
+    .heading-area .title {
+        font-size: 43px;
+    }
+
+    #service_part .Part_right img {
+        margin-top: 45px;
+    }
+
+    #service_part .Part_right .overlay::before {
+        font-size: 143px;
+    }
+
+    #service_part .Part_right .overlay {
+        padding: 30px;
+        width: 90%;
+        left: 10%;
+    }
+
+    #service_part .counter_part i {
+        font-size: 35px;
+        margin-right: 5px;
+        color: #55ACEE;
+    }
+
+    #service_part .counter_part {
+        justify-content: center;
+        gap: 80px;
+    }
+
+    /* =====service part end === */
+
+    /* ======work part start ===== */
+
+    #work_part h2 {
+        font-size: 43px;
+        padding-bottom: 40px;
+    }
+
+    #work_part .venu_item .img {
+        margin: 18px 0;
+    }
+
+
+    #work_part .venu_item .overlay i {
+        margin-top: 0px;
+    }
+
+    /* ======work part end ===== */
+
+    /* ========clients part start ===== */
+    #clients_part {
+        text-align: center;
+    }
+
+    #clients_part .title {
+        font-size: 36px;
+    }
+
+    #clients_part .client_slider .nextarrow {
+        left: -32%;
+    }
+
+    #clients_part .client_slider .prevarrow {
+        left: -42%;
+    }
+
+    /* ========clients part end ===== */
+
+    /* ========blog part start ===== */
+    #blog_part {
+        margin: 70px 0;
+    }
+
+    /* ========blog part end ===== */
+
+    /* ======contact part start ===== */
+    #contact_part .Name,
+    .email,
+    .Subject,
+    .message {
+        margin: 10px 0;
+    }
+
+    /* ======contact part end ===== */
+
+    /* ========footer part start ======= */
+    #contact_part {
+        margin-bottom: 70px;
+    }
+
+    /* ========footer part end ======= */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* =======menu part start ===== */
+
+    #main_menu img {
+        width: 150px;
+    }
+
+    #main_menu {
+        padding: 10px 0;
+    }
+
+    #main_menu .toggler_icon {
+        font-size: 20px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =======menu part end ===== */
+
+    /* ======banner part start ==== */
+
+    #banner_part {
+        padding: 100px 0;
+        text-align: center;
+        padding-bottom: 0px;
+    }
+
+    #banner_part .heading-box h2 {
+        font-size: 57px;
+        line-height: 52px;
+    }
+
+    #banner_part .btn.btn-transparent-black {
+        margin-bottom: 40px;
+    }
+
+    #banner_part .banner_right img {
+        width: 100%;
+    }
+
+    /* ======banner part end ==== */
+
+    /* =====about part start ===== */
+
+    #about_part {
+        margin-bottom: 100px;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    #about_part .about_item {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+
+    #about_part .about_item .icon {
+        font-size: 26px;
+        height: 50px;
+        width: 50px;
+    }
+
+    #about_part .about_item:last-child {
+        margin-bottom: 70px;
+    }
+
+    .heading-area .title {
+        font-size: 36px;
+    }
+
+    #about_part .spcl {
+        margin-top: 0;
+    }
+
+    /* =====about part end ===== */
+
+    /* ======count part start ===== */
+
+    #count_part {
+        padding: 45px 0;
+    }
+
+    #count_part .parallax-box i {
+        font-size: 39px;
+        margin-bottom: 20px;
+    }
+
+    #count_part .parallax-box h2 {
+        font-size: 33px;
+    }
+
+    #count_part .parallax-box {
+        padding: 2rem 0;
+    }
+
+    /* ======count part end ===== */
+
+    /* =====service part start === */
+
+    #service_part {
+        margin: 70px 0;
+        text-align: center;
+    }
+
+    .heading-area .title {
+        font-size: 43px;
+    }
+
+    #service_part .Part_right img {
+        margin-top: 45px;
+    }
+
+    #service_part .Part_right .overlay::before {
+        font-size: 143px;
+    }
+
+    #service_part .Part_right .overlay {
+        padding: 30px;
+        width: 90%;
+        left: 10%;
+    }
+
+    #service_part .counter_part i {
+        font-size: 35px;
+        margin-right: 5px;
+        color: #55ACEE;
+    }
+
+    #service_part .counter_part {
+        justify-content: center;
+        gap: 80px;
+    }
+
+    /* =====service part end === */
+
+    /* ======work part start ===== */
+
+    #work_part h2 {
+        font-size: 43px;
+        padding-bottom: 40px;
+    }
+
+    #work_part .venu_item .img {
+        margin: 18px 0;
+    }
+
+
+    #work_part .venu_item .overlay i {
+        margin-top: 0px;
+    }
+
+    /* ======work part end ===== */
+
+    /* ========clients part start ===== */
+    #clients_part {
+        text-align: center;
+    }
+
+    #clients_part .title {
+        font-size: 36px;
+    }
+
+    #clients_part .client_slider .nextarrow {
+        left: -32%;
+    }
+
+    #clients_part .client_slider .prevarrow {
+        left: -42%;
+    }
+
+    /* ========clients part end ===== */
+
+    /* ========blog part start ===== */
+    #blog_part {
+        margin: 70px 0;
+    }
+
+    /* ========blog part end ===== */
+
+    /* ======contact part start ===== */
+    #contact_part .Name,
+    .email,
+    .Subject,
+    .message {
+        margin: 10px 0;
+    }
+
+    /* ======contact part end ===== */
+
+    /* ========footer part start ======= */
+    #contact_part {
+        margin-bottom: 70px;
+    }
+
+    /* ========footer part end ======= */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* =======menu part start ===== */
+
+    #main_menu img {
+        width: 150px;
+    }
+
+    #main_menu {
+        padding: 10px 0;
+    }
+
+    #main_menu .toggler_icon {
+        font-size: 20px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =======menu part end ===== */
+
+    /* ======banner part start ==== */
+
+    #banner_part {
+        padding: 100px 0;
+        text-align: center;
+        padding-bottom: 0px;
+    }
+
+    #banner_part .heading-box h2 {
+        font-size: 53px;
+        line-height: 52px;
+    }
+
+    #banner_part .btn.btn-transparent-black {
+        margin-bottom: 40px;
+    }
+
+    #banner_part .banner_right img {
+        width: 100%;
+    }
+
+    /* ======banner part end ==== */
+
+    /* =====about part start ===== */
+
+    #about_part {
+        margin-bottom: 100px;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    #about_part .about_item {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+
+    #about_part .about_item .icon {
+        font-size: 26px;
+        height: 50px;
+        width: 50px;
+    }
+
+    #about_part .about_item:last-child {
+        margin-bottom: 70px;
+    }
+
+    .heading-area .title {
+        font-size: 36px;
+    }
+
+    #about_part .spcl {
+        margin-top: 0;
+    }
+
+    /* =====about part end ===== */
+
+    /* ======count part start ===== */
+
+    #count_part {
+        padding: 45px 0;
+    }
+
+    #count_part .parallax-box i {
+        font-size: 39px;
+        margin-bottom: 20px;
+    }
+
+    #count_part .parallax-box h2 {
+        font-size: 33px;
+    }
+
+    #count_part .parallax-box {
+        padding: 2rem 0;
+    }
+
+    /* ======count part end ===== */
+
+    /* =====service part start === */
+
+    #service_part {
+        margin: 70px 0;
+        text-align: center;
+    }
+
+    .heading-area .title {
+        font-size: 39px;
+    }
+
+    #service_part .Part_right img {
+        margin-top: 45px;
+    }
+
+    #service_part .Part_right .overlay::before {
+        font-size: 143px;
+    }
+
+    #service_part .Part_right .overlay {
+        padding: 30px;
+        width: 90%;
+        left: 10%;
+    }
+
+    #service_part .counter_part i {
+        font-size: 35px;
+        margin-right: 5px;
+        color: #55ACEE;
+    }
+
+    #service_part .counter_part {
+        justify-content: center;
+        gap: 80px;
+    }
+
+    /* =====service part end === */
+
+    /* ======work part start ===== */
+
+    #work_part h2 {
+        font-size: 41px;
+        padding-bottom: 40px;
+    }
+
+    #work_part .venu_item .img {
+        margin: 18px 0;
+    }
+
+
+    #work_part .venu_item .overlay i {
+        margin-top: 0px;
+    }
+
+    /* ======work part end ===== */
+
+    /* ========clients part start ===== */
+    #clients_part {
+        text-align: center;
+    }
+
+    #clients_part .title {
+        font-size: 35px;
+    }
+
+    #clients_part .client_slider .nextarrow {
+        left: -32%;
+    }
+
+    #clients_part .client_slider .prevarrow {
+        left: -42%;
+    }
+
+    /* ========clients part end ===== */
+
+    /* ========blog part start ===== */
+    #blog_part {
+        margin: 70px 0;
+    }
+
+    /* ========blog part end ===== */
+
+    /* ======contact part start ===== */
+    #contact_part .Name,
+    .email,
+    .Subject,
+    .message {
+        margin: 10px 0;
+    }
+
+    /* ======contact part end ===== */
+
+    /* ========footer part start ======= */
+    #contact_part {
+        margin-bottom: 70px;
+    }
+
+    /* ========footer part end ======= */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* =======menu part start ===== */
+
+    #main_menu img {
+        width: 150px;
+    }
+
+    #main_menu {
+        padding: 10px 0;
+    }
+
+    #main_menu .toggler_icon {
+        font-size: 20px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =======menu part end ===== */
+
+    /* ======banner part start ==== */
+
+    #banner_part {
+        padding: 100px 0;
+        text-align: center;
+        padding-bottom: 0px;
+    }
+
+    #banner_part .heading-box h2 {
+        font-size: 46px;
+        line-height: 52px;
+    }
+
+    #banner_part .btn.btn-transparent-black {
+        margin-bottom: 40px;
+    }
+
+    #banner_part .banner_right img {
+        width: 100%;
+    }
+
+    #banner_part .banner_right .img::before {
+        height: 110%;
+        width: 93%;
+    }
+
+    /* ======banner part end ==== */
+
+    /* =====about part start ===== */
+
+    #about_part {
+        margin-bottom: 100px;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    #about_part .about_item {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+
+    #about_part .about_item .icon {
+        font-size: 23px;
+        height: 45px;
+        width: 45px;
+    }
+
+    #about_part .about_item:last-child {
+        margin-bottom: 70px;
+    }
+
+    .heading-area .title {
+        font-size: 36px;
+    }
+
+    #about_part .spcl {
+        margin-top: 0;
+    }
+
+    /* =====about part end ===== */
+
+    /* ======count part start ===== */
+
+    #count_part {
+        padding: 45px 0;
+    }
+
+    #count_part .parallax-box i {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    #count_part .parallax-box h2 {
+        font-size: 30px;
+    }
+
+    #count_part .parallax-box {
+        padding: 2rem 0;
+    }
+
+    /* ======count part end ===== */
+
+    /* =====service part start === */
+
+    #service_part {
+        margin: 70px 0;
+        text-align: center;
+    }
+
+    .heading-area .title {
+        font-size: 33px;
+    }
+
+    #service_part .Part_right img {
+        margin-top: 45px;
+    }
+
+    #service_part .Part_right .overlay::before {
+        font-size: 143px;
+    }
+
+    #service_part .Part_right .overlay {
+        padding: 30px;
+        width: 90%;
+        left: 10%;
+    }
+
+    #service_part .counter_part i {
+        font-size: 35px;
+        margin-right: 5px;
+        color: #55ACEE;
+    }
+
+    #service_part .counter_part {
+        justify-content: center;
+        gap: 80px;
+    }
+
+    /* =====service part end === */
+
+    /* ======work part start ===== */
+
+    #work_part h2 {
+        font-size: 37px;
+        padding-bottom: 40px;
+    }
+
+    #work_part .venu_item .img {
+        margin: 18px 0;
+    }
+
+    /* ======work part end ===== */
+
+    /* ========clients part start ===== */
+    #clients_part {
+        text-align: center;
+    }
+
+    #clients_part .title {
+        font-size: 33px;
+    }
+
+    #clients_part .client_slider .nextarrow {
+        left: -40%;
+    }
+
+    #clients_part .client_slider .prevarrow {
+        left: -60%;
+    }
+
+    /* ========clients part end ===== */
+
+    /* ========blog part start ===== */
+    #blog_part {
+        margin: 70px 0;
+    }
+
+    /* ========blog part end ===== */
+
+    /* ======contact part start ===== */
+    #contact_part .Name,
+    .email,
+    .Subject,
+    .message {
+        margin: 10px 0;
+    }
+
+    /* ======contact part end ===== */
+
+    /* ========footer part start ======= */
+    #contact_part {
+        margin-bottom: 70px;
+    }
+
+    /* ========footer part end ======= */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* =======menu part start ===== */
+
+    #main_menu img {
+        width: 130px;
+    }
+
+    #main_menu {
+        padding: 10px 0;
+    }
+
+    #main_menu .toggler_icon {
+        font-size: 20px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =======menu part end ===== */
+
+    /* ======banner part start ==== */
+
+    #banner_part {
+        padding: 100px 0;
+        text-align: center;
+    }
+
+    #banner_part .heading-box h2 {
+        font-size: 46px;
+        line-height: 52px;
+    }
+
+    #banner_part .btn.btn-transparent-black {
+        margin-bottom: 40px;
+    }
+
+    #banner_part .banner_right img {
+        width: 100%;
+    }
+
+    #banner_part .banner_right .img::before {
+        height: 110%;
+        width: 93%;
+    }
+
+    /* ======banner part end ==== */
+
+    /* =====about part start ===== */
+
+    #about_part {
+        margin-bottom: 100px;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    #about_part .about_item {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+
+    #about_part .about_item .icon {
+        font-size: 23px;
+        height: 45px;
+        width: 45px;
+    }
+
+    #about_part .about_item:last-child {
+        margin-bottom: 70px;
+    }
+
+    .heading-area .title {
+        font-size: 36px;
+    }
+
+    #about_part .spcl {
+        margin-top: 0;
+    }
+
+    /* =====about part end ===== */
+
+    /* ======count part start ===== */
+
+    #count_part {
+        padding: 45px 0;
+    }
+
+    #count_part .parallax-box i {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    #count_part .parallax-box h2 {
+        font-size: 30px;
+    }
+
+    #count_part .parallax-box {
+        padding: 2rem 0;
+    }
+
+    /* ======count part end ===== */
+
+    /* =====service part start === */
+
+    #service_part {
+        margin: 70px 0;
+        text-align: center;
+    }
+
+    .heading-area .title {
+        font-size: 33px;
+    }
+
+    #service_part .Part_right img {
+        margin-top: 45px;
+    }
+
+    #service_part .Part_right .overlay::before {
+        font-size: 143px;
+    }
+
+    #service_part .Part_right .overlay {
+        padding: 20px;
+        width: 90%;
+        left: 10%;
+    }
+
+    #service_part .counter_part i {
+        font-size: 35px;
+        margin-right: 5px;
+        color: #55ACEE;
+    }
+
+    #service_part .counter_part {
+        justify-content: center;
+        gap: 80px;
+    }
+
+    /* =====service part end === */
+
+    /* ======work part start ===== */
+
+    #work_part h2 {
+        font-size: 37px;
+        padding-bottom: 40px;
+    }
+
+    #work_part .venu_item .img {
+        margin: 18px 0;
+    }
+
+    /* ======work part end ===== */
+
+    /* ========clients part start ===== */
+    #clients_part {
+        text-align: center;
+    }
+
+    #clients_part .title {
+        font-size: 33px;
+    }
+
+    #clients_part .client_slider .prevarrow {
+        bottom: -74px;
+        left: 40%;
+        transform: translateX(-50%);
+    }
+
+    #clients_part .client_slider .nextarrow {
+        bottom: -74px;
+        left: 60%;
+        transform: translateX(-50%);
+    }
+
+    /* ========clients part end ===== */
+
+    /* ========blog part start ===== */
+    #blog_part {
+        margin: 70px 0;
+    }
+
+    /* ========blog part end ===== */
+
+    /* ======contact part start ===== */
+    #contact_part .Name,
+    .email,
+    .Subject,
+    .message {
+        margin: 10px 0;
+    }
+
+    /* ======contact part end ===== */
+
+    /* ========footer part start ======= */
+    #contact_part {
+        margin-bottom: 70px;
+    }
+
+    /* ========footer part end ======= */
+}
+
+@media (max-width: 575.98px) {
+    /* =======menu part start ===== */
+
+    #main_menu img {
+        width: 130px;
+    }
+
+    #main_menu {
+        padding: 10px 0;
+    }
+
+    #main_menu .toggler_icon {
+        font-size: 20px;
+        color: black;
+    }
+
+    #main_menu .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    /* =======menu part end ===== */
+
+    /* ======banner part start ==== */
+
+    #banner_part {
+        padding: 100px 0;
+        text-align: center;
+    }
+
+    #banner_part .heading-box h2 {
+        font-size: 46px;
+        line-height: 52px;
+    }
+
+    #banner_part .btn.btn-transparent-black {
+        margin-bottom: 40px;
+    }
+
+    #banner_part .banner_right img {
+        width: 100%;
+    }
+
+    #banner_part .banner_right .img::before {
+        height: 110%;
+        width: 93%;
+    }
+
+    /* ======banner part end ==== */
+
+    /* =====about part start ===== */
+
+    #about_part {
+        margin-bottom: 70px;
+        text-align: center;
+    }
+
+    #about_part .about_item {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+
+    #about_part .about_item .icon {
+        font-size: 23px;
+        height: 45px;
+        width: 45px;
+    }
+
+    #about_part .about_item:last-child {
+        margin-bottom: 70px;
+    }
+
+    .heading-area .title {
+        font-size: 36px;
+    }
+
+    /* =====about part end ===== */
+
+    /* ======count part start ===== */
+
+    #count_part {
+        padding: 45px 0;
+    }
+
+    #count_part .parallax-box i {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    #count_part .parallax-box h2 {
+        font-size: 30px;
+    }
+
+    #count_part .parallax-box {
+        padding: 2rem 0;
+    }
+
+    /* ======count part end ===== */
+
+    /* =====service part start === */
+
+    #service_part {
+        margin: 70px 0;
+        text-align: center;
+    }
+
+    .heading-area .title {
+        font-size: 33px;
+    }
+
+    #service_part .Part_right img {
+        margin-top: 45px;
+    }
+
+    #service_part .Part_right .overlay::before {
+        font-size: 143px;
+    }
+
+    #service_part .Part_right .overlay {
+        padding: 20px;
+        width: 90%;
+        left: 10%;
+    }
+
+    #service_part .counter_part i {
+        font-size: 35px;
+        margin-right: 5px;
+        color: #55ACEE;
+    }
+
+    /* =====service part end === */
+
+    /* ======work part start ===== */
+
+    #work_part h2 {
+        font-size: 37px;
+        padding-bottom: 40px;
+    }
+
+    #work_part .venu_item .img {
+        margin: 18px 0;
+    }
+
+    /* ======work part end ===== */
+
+    /* ========clients part start ===== */
+    #clients_part {
+        text-align: center;
+    }
+
+    #clients_part .title {
+        font-size: 33px;
+    }
+
+    #clients_part .client_slider .prevarrow {
+        bottom: -74px;
+        left: 40%;
+        transform: translateX(-50%);
+    }
+
+    #clients_part .client_slider .nextarrow {
+        bottom: -74px;
+        left: 60%;
+        transform: translateX(-50%);
+    }
+
+    /* ========clients part end ===== */
+
+    /* ========blog part start ===== */
+    #blog_part {
+        margin: 70px 0;
+    }
+
+    /* ========blog part end ===== */
+
+    /* ======contact part start ===== */
+    #contact_part .Name,
+    .email,
+    .Subject,
+    .message {
+        margin: 10px 0;
+    }
+
+    /* ======contact part end ===== */
+
+    /* ========footer part start ======= */
+    #contact_part {
+        margin-bottom: 70px;
+    }
+
+    /* ========footer part end ======= */
+}
